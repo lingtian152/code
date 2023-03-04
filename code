@@ -3,5 +3,10 @@
       "code": "test",
       "reward": "100",
       "object": "coins"
+   },
+   "code" {
+      "code": "az",
+      "reward": "200",
+      "object": "coins"
    }
 }
